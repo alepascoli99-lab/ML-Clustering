@@ -1,6 +1,6 @@
 # Clustering and image processing
 
-**Goal**: Applying the **K-means** clustering algorithm to the problem of image compression and image segmentation.<br>
+**Goal**: Applying the **k-means** clustering algorithm to the problem of image compression and image segmentation.<br>
 **Context**: Master course in Machine Learning.
 
 **Key skills**: Clustering, k-means clustering, linkage-based clustering, agglomerative clustering, image segmentation, image compression.
